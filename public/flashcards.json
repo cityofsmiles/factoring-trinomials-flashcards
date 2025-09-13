@@ -1,0 +1,802 @@
+[
+  {
+    "question": "n^2 + 8n + 15",
+    "answer": "(n + 3)(n + 5)"
+  },
+  {
+    "question": "a^2 - 4a + 4",
+    "answer": "(a - 2)(a - 2)"
+  },
+  {
+    "question": "q^2 + 3q - 4",
+    "answer": "(q - 1)(q + 4)"
+  },
+  {
+    "question": "a^2 - 3a - 4",
+    "answer": "(a + 1)(a - 4)"
+  },
+  {
+    "question": "a^2 - 3a + 2",
+    "answer": "(a - 1)(a - 2)"
+  },
+  {
+    "question": "n^2 - n - 20",
+    "answer": "(n + 4)(n - 5)"
+  },
+  {
+    "question": "b^2 + 6b + 8",
+    "answer": "(b + 4)(b + 2)"
+  },
+  {
+    "question": "m^2 - 6m + 5",
+    "answer": "(m - 1)(m - 5)"
+  },
+  {
+    "question": "a^2 + 3a - 10",
+    "answer": "(a - 2)(a + 5)"
+  },
+  {
+    "question": "c^2 + 7c + 12",
+    "answer": "(c + 3)(c + 4)"
+  },
+  {
+    "question": "a^2 - 1",
+    "answer": "(a + 1)(a - 1)"
+  },
+  {
+    "question": "n^2 + 2n - 15",
+    "answer": "(n + 5)(n - 3)"
+  },
+  {
+    "question": "c^2 - 7c + 12",
+    "answer": "(c - 4)(c - 3)"
+  },
+  {
+    "question": "q^2 - 7q + 10",
+    "answer": "(q - 2)(q - 5)"
+  },
+  {
+    "question": "a^2 + a - 12",
+    "answer": "(a - 3)(a + 4)"
+  },
+  {
+    "question": "p^2 - 3p + 2",
+    "answer": "(p - 2)(p - 1)"
+  },
+  {
+    "question": "a^2 - 6a + 8",
+    "answer": "(a - 4)(a - 2)"
+  },
+  {
+    "question": "a^2 - 5a + 4",
+    "answer": "(a - 1)(a - 4)"
+  },
+  {
+    "question": "b^2 + 3b - 10",
+    "answer": "(b - 2)(b + 5)"
+  },
+  {
+    "question": "b^2 + b - 20",
+    "answer": "(b + 5)(b - 4)"
+  },
+  {
+    "question": "c^2 - 6c + 9",
+    "answer": "(c - 3)(c - 3)"
+  },
+  {
+    "question": "a^2 - 6a + 5",
+    "answer": "(a - 1)(a - 5)"
+  },
+  {
+    "question": "m^2 + 5m + 6",
+    "answer": "(m + 2)(m + 3)"
+  },
+  {
+    "question": "c^2 + 4c - 5",
+    "answer": "(c - 1)(c + 5)"
+  },
+  {
+    "question": "x^2 + 6x + 9",
+    "answer": "(x + 3)(x + 3)"
+  },
+  {
+    "question": "p^2 - p - 12",
+    "answer": "(p + 3)(p - 4)"
+  },
+  {
+    "question": "q^2 - 7q + 12",
+    "answer": "(q - 4)(q - 3)"
+  },
+  {
+    "question": "c^2 - 25",
+    "answer": "(c + 5)(c - 5)"
+  },
+  {
+    "question": "a^2 + 2a - 3",
+    "answer": "(a - 1)(a + 3)"
+  },
+  {
+    "question": "a^2 + 2a - 3",
+    "answer": "(a - 1)(a + 3)"
+  },
+  {
+    "question": "c^2 - 6c + 5",
+    "answer": "(c - 1)(c - 5)"
+  },
+  {
+    "question": "b^2 + 6b + 8",
+    "answer": "(b + 2)(b + 4)"
+  },
+  {
+    "question": "n^2 - 6n + 9",
+    "answer": "(n - 3)(n - 3)"
+  },
+  {
+    "question": "m^2 - 1",
+    "answer": "(m - 1)(m + 1)"
+  },
+  {
+    "question": "a^2 + 3a + 2",
+    "answer": "(a + 2)(a + 1)"
+  },
+  {
+    "question": "c^2 + 2c - 8",
+    "answer": "(c + 4)(c - 2)"
+  },
+  {
+    "question": "b^2 + 3b - 10",
+    "answer": "(b + 5)(b - 2)"
+  },
+  {
+    "question": "n^2 - 3n + 2",
+    "answer": "(n - 1)(n - 2)"
+  },
+  {
+    "question": "m^2 - 3m - 10",
+    "answer": "(m - 5)(m + 2)"
+  },
+  {
+    "question": "c^2 + 2c - 15",
+    "answer": "(c - 3)(c + 5)"
+  },
+  {
+    "question": "a^2 - 5a + 6",
+    "answer": "(a - 3)(a - 2)"
+  },
+  {
+    "question": "n^2 - 4n + 4",
+    "answer": "(n - 2)(n - 2)"
+  },
+  {
+    "question": "a^2 - 7a + 12",
+    "answer": "(a - 3)(a - 4)"
+  },
+  {
+    "question": "n^2 + 7n + 12",
+    "answer": "(n + 3)(n + 4)"
+  },
+  {
+    "question": "n^2 - 7n + 12",
+    "answer": "(n - 3)(n - 4)"
+  },
+  {
+    "question": "a^2 + 7a + 12",
+    "answer": "(a + 3)(a + 4)"
+  },
+  {
+    "question": "m^2 + 6m + 8",
+    "answer": "(m + 2)(m + 4)"
+  },
+  {
+    "question": "a^2 + 4a + 3",
+    "answer": "(a + 3)(a + 1)"
+  },
+  {
+    "question": "b^2 - 3b - 10",
+    "answer": "(b - 5)(b + 2)"
+  },
+  {
+    "question": "y^2 + 5y + 4",
+    "answer": "(y + 4)(y + 1)"
+  },
+  {
+    "question": "p^2 - 8pz + 16z^2",
+    "answer": "(p - 4z)(p - 4z)"
+  },
+  {
+    "question": "a^2 - 5aq + 6q^2",
+    "answer": "(a - 2q)(a - 3q)"
+  },
+  {
+    "question": "q^2 + 6qx + 8x^2",
+    "answer": "(q + 4x)(q + 2x)"
+  },
+  {
+    "question": "q^2 - 5qy + 6y^2",
+    "answer": "(q - 2y)(q - 3y)"
+  },
+  {
+    "question": "a^2 - 9ab + 20b^2",
+    "answer": "(a - 4b)(a - 5b)"
+  },
+  {
+    "question": "b^2 + 4bc - 5c^2",
+    "answer": "(b + 5c)(b - c)"
+  },
+  {
+    "question": "c^2 - 8cm + 15m^2",
+    "answer": "(c - 5m)(c - 3m)"
+  },
+  {
+    "question": "b^2 + 5by + 4y^2",
+    "answer": "(b + 4y)(b + y)"
+  },
+  {
+    "question": "x^2 + 7xy + 10y^2",
+    "answer": "(x + 2y)(x + 5y)"
+  },
+  {
+    "question": "q^2 - 2qz - 15z^2",
+    "answer": "(q - 5z)(q + 3z)"
+  },
+  {
+    "question": "a^2 + aq - 2q^2",
+    "answer": "(a - q)(a + 2q)"
+  },
+  {
+    "question": "b^2 - 25x^2",
+    "answer": "(b + 5x)(b - 5x)"
+  },
+  {
+    "question": "n^2 - nx - 6x^2",
+    "answer": "(n - 3x)(n + 2x)"
+  },
+  {
+    "question": "a^2 + 5aq + 6q^2",
+    "answer": "(a + 3q)(a + 2q)"
+  },
+  {
+    "question": "a^2 - 8ax + 15x^2",
+    "answer": "(a - 5x)(a - 3x)"
+  },
+  {
+    "question": "y^2 - 3yz - 4z^2",
+    "answer": "(y - 4z)(y + z)"
+  },
+  {
+    "question": "n^2 - 8np + 15p^2",
+    "answer": "(n - 5p)(n - 3p)"
+  },
+  {
+    "question": "p^2 - 7py + 12y^2",
+    "answer": "(p - 4y)(p - 3y)"
+  },
+  {
+    "question": "p^2 + 9pq + 20q^2",
+    "answer": "(p + 4q)(p + 5q)"
+  },
+  {
+    "question": "y^2 + 3yz - 10z^2",
+    "answer": "(y + 5z)(y - 2z)"
+  },
+  {
+    "question": "c^2 - cq - 12q^2",
+    "answer": "(c + 3q)(c - 4q)"
+  },
+  {
+    "question": "n^2 - 10nq + 25q^2",
+    "answer": "(n - 5q)(n - 5q)"
+  },
+  {
+    "question": "a^2 + 3ax + 2x^2",
+    "answer": "(a + 2x)(a + x)"
+  },
+  {
+    "question": "b^2 + 4bq - 5q^2",
+    "answer": "(b + 5q)(b - q)"
+  },
+  {
+    "question": "m^2 + 8mq + 15q^2",
+    "answer": "(m + 3q)(m + 5q)"
+  },
+  {
+    "question": "c^2 - cn - 20n^2",
+    "answer": "(c - 5n)(c + 4n)"
+  },
+  {
+    "question": "b^2 - 4bq + 3q^2",
+    "answer": "(b - 3q)(b - q)"
+  },
+  {
+    "question": "c^2 + 4cy + 3y^2",
+    "answer": "(c + 3y)(c + y)"
+  },
+  {
+    "question": "b^2 + 2bx - 8x^2",
+    "answer": "(b + 4x)(b - 2x)"
+  },
+  {
+    "question": "n^2 - 6nq + 5q^2",
+    "answer": "(n - q)(n - 5q)"
+  },
+  {
+    "question": "b^2 - 3bq - 4q^2",
+    "answer": "(b - 4q)(b + q)"
+  },
+  {
+    "question": "p^2 + 2pz - 15z^2",
+    "answer": "(p - 3z)(p + 5z)"
+  },
+  {
+    "question": "a^2 - 9q^2",
+    "answer": "(a - 3q)(a + 3q)"
+  },
+  {
+    "question": "y^2 - yz - 6z^2",
+    "answer": "(y - 3z)(y + 2z)"
+  },
+  {
+    "question": "p^2 - 8pz + 16z^2",
+    "answer": "(p - 4z)(p - 4z)"
+  },
+  {
+    "question": "b^2 - bx - 6x^2",
+    "answer": "(b - 3x)(b + 2x)"
+  },
+  {
+    "question": "c^2 - 3cm - 10m^2",
+    "answer": "(c + 2m)(c - 5m)"
+  },
+  {
+    "question": "c^2 + cm - 20m^2",
+    "answer": "(c - 4m)(c + 5m)"
+  },
+  {
+    "question": "a^2 - 2az - 3z^2",
+    "answer": "(a + z)(a - 3z)"
+  },
+  {
+    "question": "c^2 - 3cz - 10z^2",
+    "answer": "(c + 2z)(c - 5z)"
+  },
+  {
+    "question": "a^2 + 8ay + 16y^2",
+    "answer": "(a + 4y)(a + 4y)"
+  },
+  {
+    "question": "c^2 + 6cq + 5q^2",
+    "answer": "(c + 5q)(c + q)"
+  },
+  {
+    "question": "n^2 + 3nx - 4x^2",
+    "answer": "(n - x)(n + 4x)"
+  },
+  {
+    "question": "b^2 + 3by + 2y^2",
+    "answer": "(b + 2y)(b + y)"
+  },
+  {
+    "question": "q^2 - qz - 12z^2",
+    "answer": "(q + 3z)(q - 4z)"
+  },
+  {
+    "question": "m^2 + 2mn - 8n^2",
+    "answer": "(m + 4n)(m - 2n)"
+  },
+  {
+    "question": "b^2 - 7bm + 12m^2",
+    "answer": "(b - 4m)(b - 3m)"
+  },
+  {
+    "question": "q^2 + 4qx - 5x^2",
+    "answer": "(q + 5x)(q - x)"
+  },
+  {
+    "question": "c^2 - 2cz - 8z^2",
+    "answer": "(c + 2z)(c - 4z)"
+  },
+  {
+    "question": "a^2 + 9ay + 20y^2",
+    "answer": "(a + 5y)(a + 4y)"
+  },
+  {
+    "question": "9p^2 - 9p - 10",
+    "answer": "(3p + 2)(3p - 5)"
+  },
+  {
+    "question": "2q^2 + q - 6",
+    "answer": "(2q - 3)(q + 2)"
+  },
+  {
+    "question": "2a^2 + 7a - 4",
+    "answer": "(a + 4)(2a - 1)"
+  },
+  {
+    "question": "3m^2 + 16m + 16",
+    "answer": "(m + 4)(3m + 4)"
+  },
+  {
+    "question": "c^2 + 8c + 15",
+    "answer": "(c + 5)(c + 3)"
+  },
+  {
+    "question": "6a^2 + 23a + 20",
+    "answer": "(2a + 5)(3a + 4)"
+  },
+  {
+    "question": "2b^2 - 7b + 3",
+    "answer": "(2b - 1)(b - 3)"
+  },
+  {
+    "question": "c^2 + c - 20",
+    "answer": "(c + 5)(c - 4)"
+  },
+  {
+    "question": "3c^2 - 11c + 6",
+    "answer": "(c - 3)(3c - 2)"
+  },
+  {
+    "question": "2x^2 - 15x + 25",
+    "answer": "(2x - 5)(x - 5)"
+  },
+  {
+    "question": "2a^2 - 3a + 1",
+    "answer": "(2a - 1)(a - 1)"
+  },
+  {
+    "question": "2a^2 + 15a + 25",
+    "answer": "(a + 5)(2a + 5)"
+  },
+  {
+    "question": "3m^2 - 13m + 4",
+    "answer": "(3m - 1)(m - 4)"
+  },
+  {
+    "question": "9b^2 - 4",
+    "answer": "(3b + 2)(3b - 2)"
+  },
+  {
+    "question": "4m^2 - 12m + 5",
+    "answer": "(2m - 5)(2m - 1)"
+  },
+  {
+    "question": "4b^2 + 20b + 25",
+    "answer": "(2b + 5)(2b + 5)"
+  },
+  {
+    "question": "6y^2 + 5y - 25",
+    "answer": "(3y - 5)(2y + 5)"
+  },
+  {
+    "question": "3c^2 + 8c - 3",
+    "answer": "(c + 3)(3c - 1)"
+  },
+  {
+    "question": "6b^2 + 13b + 5",
+    "answer": "(2b + 1)(3b + 5)"
+  },
+  {
+    "question": "p^2 - 7p + 10",
+    "answer": "(p - 2)(p - 5)"
+  },
+  {
+    "question": "6c^2 - 11c + 4",
+    "answer": "(2c - 1)(3c - 4)"
+  },
+  {
+    "question": "6q^2 - 11q + 3",
+    "answer": "(2q - 3)(3q - 1)"
+  },
+  {
+    "question": "9b^2 - 9b - 10",
+    "answer": "(3b + 2)(3b - 5)"
+  },
+  {
+    "question": "2c^2 - 7c + 3",
+    "answer": "(c - 3)(2c - 1)"
+  },
+  {
+    "question": "9b^2 + 18b + 8",
+    "answer": "(3b + 4)(3b + 2)"
+  },
+  {
+    "question": "9m^2 + 18m + 5",
+    "answer": "(3m + 5)(3m + 1)"
+  },
+  {
+    "question": "6b^2 + b - 1",
+    "answer": "(3b - 1)(2b + 1)"
+  },
+  {
+    "question": "2n^2 + 3n - 2",
+    "answer": "(2n - 1)(n + 2)"
+  },
+  {
+    "question": "6b^2 + 5b - 6",
+    "answer": "(3b - 2)(2b + 3)"
+  },
+  {
+    "question": "3b^2 + 11b - 4",
+    "answer": "(3b - 1)(b + 4)"
+  },
+  {
+    "question": "2p^2 + 5p - 3",
+    "answer": "(2p - 1)(p + 3)"
+  },
+  {
+    "question": "2b^2 + 13b + 15",
+    "answer": "(2b + 3)(b + 5)"
+  },
+  {
+    "question": "9y^2 + 18y + 8",
+    "answer": "(3y + 2)(3y + 4)"
+  },
+  {
+    "question": "m^2 - 9m + 20",
+    "answer": "(m - 4)(m - 5)"
+  },
+  {
+    "question": "9a^2 + 3a - 2",
+    "answer": "(3a + 2)(3a - 1)"
+  },
+  {
+    "question": "6b^2 - 19b + 15",
+    "answer": "(3b - 5)(2b - 3)"
+  },
+  {
+    "question": "6n^2 - 11n + 4",
+    "answer": "(2n - 1)(3n - 4)"
+  },
+  {
+    "question": "6b^2 - 23b + 20",
+    "answer": "(3b - 4)(2b - 5)"
+  },
+  {
+    "question": "6c^2 - c - 1",
+    "answer": "(2c - 1)(3c + 1)"
+  },
+  {
+    "question": "3m^2 - 7m + 2",
+    "answer": "(3m - 1)(m - 2)"
+  },
+  {
+    "question": "2p^2 - p - 15",
+    "answer": "(2p + 5)(p - 3)"
+  },
+  {
+    "question": "n^2 - 1",
+    "answer": "(n + 1)(n - 1)"
+  },
+  {
+    "question": "6p^2 + 5p - 4",
+    "answer": "(2p - 1)(3p + 4)"
+  },
+  {
+    "question": "6a^2 - 17a + 5",
+    "answer": "(2a - 5)(3a - 1)"
+  },
+  {
+    "question": "6b^2 + 19b + 10",
+    "answer": "(3b + 2)(2b + 5)"
+  },
+  {
+    "question": "4n^2 + 8n + 3",
+    "answer": "(2n + 3)(2n + 1)"
+  },
+  {
+    "question": "9a^2 + 6a - 8",
+    "answer": "(3a + 4)(3a - 2)"
+  },
+  {
+    "question": "6a^2 + 7a - 3",
+    "answer": "(2a + 3)(3a - 1)"
+  },
+  {
+    "question": "2b^2 + 7b - 15",
+    "answer": "(2b - 3)(b + 5)"
+  },
+  {
+    "question": "y^2 + y - 20",
+    "answer": "(y + 5)(y - 4)"
+  },
+  {
+    "question": "4a^2 + 4aq - 15q^2",
+    "answer": "(2a + 5q)(2a - 3q)"
+  },
+  {
+    "question": "6c^2 - 7cz - 20z^2",
+    "answer": "(2c - 5z)(3c + 4z)"
+  },
+  {
+    "question": "6c^2 - 23cx + 20x^2",
+    "answer": "(3c - 4x)(2c - 5x)"
+  },
+  {
+    "question": "6a^2 + ac - 12c^2",
+    "answer": "(3a - 4c)(2a + 3c)"
+  },
+  {
+    "question": "4m^2 - 9z^2",
+    "answer": "(2m + 3z)(2m - 3z)"
+  },
+  {
+    "question": "3b^2 + 4bq + q^2",
+    "answer": "(3b + q)(b + q)"
+  },
+  {
+    "question": "2n^2 - 9nz + 4z^2",
+    "answer": "(n - 4z)(2n - z)"
+  },
+  {
+    "question": "4a^2 + 16ac + 15c^2",
+    "answer": "(2a + 3c)(2a + 5c)"
+  },
+  {
+    "question": "6m^2 - 25mx + 25x^2",
+    "answer": "(3m - 5x)(2m - 5x)"
+  },
+  {
+    "question": "4a^2 - 4ac - 3c^2",
+    "answer": "(2a - 3c)(2a + c)"
+  },
+  {
+    "question": "3x^2 - 5xz - 12z^2",
+    "answer": "(3x + 4z)(x - 3z)"
+  },
+  {
+    "question": "p^2 + 6py + 5y^2",
+    "answer": "(p + 5y)(p + y)"
+  },
+  {
+    "question": "6c^2 + 17cp + 12p^2",
+    "answer": "(2c + 3p)(3c + 4p)"
+  },
+  {
+    "question": "3p^2 - 13pq + 4q^2",
+    "answer": "(p - 4q)(3p - q)"
+  },
+  {
+    "question": "6b^2 + 17bx + 5x^2",
+    "answer": "(2b + 5x)(3b + x)"
+  },
+  {
+    "question": "4m^2 + 16mp + 15p^2",
+    "answer": "(2m + 3p)(2m + 5p)"
+  },
+  {
+    "question": "4q^2 + 8qx - 5x^2",
+    "answer": "(2q + 5x)(2q - x)"
+  },
+  {
+    "question": "3m^2 + 10mp - 25p^2",
+    "answer": "(3m - 5p)(m + 5p)"
+  },
+  {
+    "question": "3c^2 - 17cy + 20y^2",
+    "answer": "(c - 4y)(3c - 5y)"
+  },
+  {
+    "question": "6a^2 - 5ay - 4y^2",
+    "answer": "(3a - 4y)(2a + y)"
+  },
+  {
+    "question": "m^2 + mx - 2x^2",
+    "answer": "(m - x)(m + 2x)"
+  },
+  {
+    "question": "4y^2 - 12yz + 9z^2",
+    "answer": "(2y - 3z)(2y - 3z)"
+  },
+  {
+    "question": "3n^2 - 4nz - 15z^2",
+    "answer": "(3n + 5z)(n - 3z)"
+  },
+  {
+    "question": "9n^2 + 18nq + 8q^2",
+    "answer": "(3n + 4q)(3n + 2q)"
+  },
+  {
+    "question": "6m^2 + 17my + 12y^2",
+    "answer": "(3m + 4y)(2m + 3y)"
+  },
+  {
+    "question": "b^2 + 6bc + 8c^2",
+    "answer": "(b + 2c)(b + 4c)"
+  },
+  {
+    "question": "2m^2 - 3mq + q^2",
+    "answer": "(2m - q)(m - q)"
+  },
+  {
+    "question": "6b^2 + 5by - 6y^2",
+    "answer": "(2b + 3y)(3b - 2y)"
+  },
+  {
+    "question": "9a^2 - 27ap + 20p^2",
+    "answer": "(3a - 4p)(3a - 5p)"
+  },
+  {
+    "question": "6a^2 + aq - 12q^2",
+    "answer": "(2a + 3q)(3a - 4q)"
+  },
+  {
+    "question": "6a^2 + 5ay - 25y^2",
+    "answer": "(2a + 5y)(3a - 5y)"
+  },
+  {
+    "question": "6q^2 - 17qx + 5x^2",
+    "answer": "(2q - 5x)(3q - x)"
+  },
+  {
+    "question": "q^2 - 9qx + 20x^2",
+    "answer": "(q - 4x)(q - 5x)"
+  },
+  {
+    "question": "2b^2 - 11bx + 12x^2",
+    "answer": "(2b - 3x)(b - 4x)"
+  },
+  {
+    "question": "4b^2 - 8bx - 5x^2",
+    "answer": "(2b - 5x)(2b + x)"
+  },
+  {
+    "question": "2a^2 - 7ac + 6c^2",
+    "answer": "(a - 2c)(2a - 3c)"
+  },
+  {
+    "question": "2m^2 - 5mn + 2n^2",
+    "answer": "(m - 2n)(2m - n)"
+  },
+  {
+    "question": "3m^2 - mz - 2z^2",
+    "answer": "(3m + 2z)(m - z)"
+  },
+  {
+    "question": "2c^2 + 5cp - 3p^2",
+    "answer": "(c + 3p)(2c - p)"
+  },
+  {
+    "question": "6a^2 + 17ac + 5c^2",
+    "answer": "(3a + c)(2a + 5c)"
+  },
+  {
+    "question": "9c^2 + 18cq + 5q^2",
+    "answer": "(3c + q)(3c + 5q)"
+  },
+  {
+    "question": "2a^2 - 13ax + 15x^2",
+    "answer": "(2a - 3x)(a - 5x)"
+  },
+  {
+    "question": "6a^2 - 13ab - 5b^2",
+    "answer": "(3a + b)(2a - 5b)"
+  },
+  {
+    "question": "2b^2 + 5bp - 3p^2",
+    "answer": "(2b - p)(b + 3p)"
+  },
+  {
+    "question": "6n^2 - 13nz + 6z^2",
+    "answer": "(3n - 2z)(2n - 3z)"
+  },
+  {
+    "question": "2n^2 - 13np + 20p^2",
+    "answer": "(2n - 5p)(n - 4p)"
+  },
+  {
+    "question": "3p^2 + 7px + 4x^2",
+    "answer": "(3p + 4x)(p + x)"
+  },
+  {
+    "question": "3b^2 + 7by - 20y^2",
+    "answer": "(3b - 5y)(b + 4y)"
+  },
+  {
+    "question": "9m^2 - 27mq + 20q^2",
+    "answer": "(3m - 4q)(3m - 5q)"
+  },
+  {
+    "question": "2a^2 + 5ac - 3c^2",
+    "answer": "(a + 3c)(2a - c)"
+  }
+]
